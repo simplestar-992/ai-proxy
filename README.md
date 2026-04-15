@@ -1,74 +1,36 @@
-# AI-PROXY
+# Ai-proxy
 
-```
-⭐ ai-proxy ⭐
-╔══════════════════╗
-║   AI-PROXY       ║
-╚══════════════════╝
-```
+![Tool](https://img.shields.io/badge/Tool-ai-proxy-00ADD8?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-> A powerful tool built for modern developers
+---
 
-## ✨ Features
+## Ai-proxy
 
-- 🚀 Blazing fast performance
-- 💎 Clean and intuitive API
-- 🔧 Zero configuration needed
-- 🛡️ Secure by default
-- 📦 Single binary, no dependencies
+A useful command-line tool for developers.
 
-## 📥 Installation
+### Installation
 
 ```bash
 git clone https://github.com/simplestar-992/ai-proxy.git
 cd ai-proxy
 go build -o ai-proxy .
+```
+
+### Usage
+
+```bash
 ./ai-proxy --help
 ```
 
-## 🚀 Quick Start
-
-```bash
-./ai-proxy -h
-```
-
-## 🧪 Examples
-
-```bash
-# Example 1
-./ai-proxy status
-
-# Example 2  
-./ai-proxy --verbose
-
-# Example 3
-./ai-proxy help
-```
-
-## 📊 Project Info
-
-| Property | Value |
-|----------|-------|
-| Language | Go 🟢 |
-| Status | Active |
-| License | MIT |
-
-## 🤝 Contributing
-
-Contributions welcome! Open an issue or PR.
-
-## 📄 License
-
-MIT © **simplestar-992**
-
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ai-proxy-magenta-magenta?style=for-the-badge" alt=""/>
-  <img src="https://img.shields.io/github/v/tag/simplestar-992/ai-proxy?style=for-the-badge" alt=""/>
-  <img src="https://img.shields.io/github/license/simplestar-992/ai-proxy?style=for-the-badge" alt=""/>
-</p>
+## Quick Start
 
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/simplestar-992">simplestar-992</a>
-</p>
+```bash
+./ai-proxy [command]
+```
+
+## License
+
+MIT © 2024 [simplestar-992](https://github.com/simplestar-992)
